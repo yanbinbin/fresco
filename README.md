@@ -46,3 +46,6 @@ For pull requests, please see the [CONTRIBUTING](https://github.com/facebook/fre
 
 ## License
 Fresco is [BSD-licensed](https://github.com/facebook/fresco/blob/master/LICENSE). We also provide an additional [patent grant](https://github.com/facebook/fresco/blob/master/PATENTS).
+
+
+(图片加载)
